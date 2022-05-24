@@ -1,0 +1,815 @@
+Epoch: 0
+mAP: 0.0268
+Wolf            : 0.0506
+Dog             : 0.0031
+
+Epoch: 1
+mAP: 0.0610
+Wolf            : 0.1199
+Dog             : 0.0020
+
+Epoch: 2
+mAP: 0.0410
+Wolf            : 0.0662
+Dog             : 0.0158
+
+Epoch: 3
+mAP: 0.0998
+Wolf            : 0.1822
+Dog             : 0.0174
+
+Epoch: 4
+mAP: 0.1866
+Wolf            : 0.2760
+Dog             : 0.0972
+
+Epoch: 5
+mAP: 0.2112
+Wolf            : 0.2660
+Dog             : 0.1564
+
+Epoch: 6
+mAP: 0.2791
+Wolf            : 0.3474
+Dog             : 0.2108
+
+Epoch: 7
+mAP: 0.4311
+Wolf            : 0.5336
+Dog             : 0.3286
+
+Epoch: 8
+mAP: 0.5480
+Wolf            : 0.5884
+Dog             : 0.5076
+
+Epoch: 9
+mAP: 0.5388
+Wolf            : 0.5982
+Dog             : 0.4795
+
+Epoch: 10
+mAP: 0.5998
+Wolf            : 0.6538
+Dog             : 0.5457
+
+Epoch: 11
+mAP: 0.5268
+Wolf            : 0.6180
+Dog             : 0.4357
+
+Epoch: 12
+mAP: 0.6166
+Wolf            : 0.6318
+Dog             : 0.6013
+
+Epoch: 13
+mAP: 0.6761
+Wolf            : 0.6860
+Dog             : 0.6663
+
+Epoch: 14
+mAP: 0.6696
+Wolf            : 0.7159
+Dog             : 0.6233
+
+Epoch: 15
+mAP: 0.6641
+Wolf            : 0.6839
+Dog             : 0.6444
+
+Epoch: 16
+mAP: 0.7363
+Wolf            : 0.7196
+Dog             : 0.7530
+
+Epoch: 17
+mAP: 0.7457
+Wolf            : 0.7206
+Dog             : 0.7708
+
+Epoch: 18
+mAP: 0.7629
+Wolf            : 0.7372
+Dog             : 0.7886
+
+Epoch: 19
+mAP: 0.7365
+Wolf            : 0.7412
+Dog             : 0.7318
+
+Epoch: 20
+mAP: 0.7655
+Wolf            : 0.7556
+Dog             : 0.7754
+
+Epoch: 21
+mAP: 0.7599
+Wolf            : 0.7348
+Dog             : 0.7851
+
+Epoch: 22
+mAP: 0.7718
+Wolf            : 0.7461
+Dog             : 0.7976
+
+Epoch: 23
+mAP: 0.7772
+Wolf            : 0.7504
+Dog             : 0.8039
+
+Epoch: 24
+mAP: 0.7915
+Wolf            : 0.7671
+Dog             : 0.8160
+
+Epoch: 25
+mAP: 0.7755
+Wolf            : 0.7606
+Dog             : 0.7904
+
+Epoch: 26
+mAP: 0.8112
+Wolf            : 0.7883
+Dog             : 0.8340
+
+Epoch: 27
+mAP: 0.7789
+Wolf            : 0.7737
+Dog             : 0.7841
+
+Epoch: 28
+mAP: 0.8174
+Wolf            : 0.7973
+Dog             : 0.8375
+
+Epoch: 29
+mAP: 0.8275
+Wolf            : 0.7958
+Dog             : 0.8591
+
+Epoch: 30
+mAP: 0.7865
+Wolf            : 0.7699
+Dog             : 0.8030
+
+Epoch: 31
+mAP: 0.8317
+Wolf            : 0.8092
+Dog             : 0.8541
+
+Epoch: 32
+mAP: 0.8287
+Wolf            : 0.8029
+Dog             : 0.8545
+
+Epoch: 33
+mAP: 0.8424
+Wolf            : 0.8142
+Dog             : 0.8706
+
+Epoch: 34
+mAP: 0.8362
+Wolf            : 0.8123
+Dog             : 0.8601
+
+Epoch: 35
+mAP: 0.8366
+Wolf            : 0.8085
+Dog             : 0.8647
+
+Epoch: 36
+mAP: 0.8461
+Wolf            : 0.8218
+Dog             : 0.8704
+
+Epoch: 37
+mAP: 0.8587
+Wolf            : 0.8314
+Dog             : 0.8859
+
+Epoch: 38
+mAP: 0.8458
+Wolf            : 0.8220
+Dog             : 0.8697
+
+Epoch: 39
+mAP: 0.8488
+Wolf            : 0.8198
+Dog             : 0.8777
+
+Epoch: 40
+mAP: 0.8567
+Wolf            : 0.8259
+Dog             : 0.8876
+
+Epoch: 41
+mAP: 0.8431
+Wolf            : 0.8046
+Dog             : 0.8816
+
+Epoch: 42
+mAP: 0.8545
+Wolf            : 0.8233
+Dog             : 0.8858
+
+Epoch: 43
+mAP: 0.8508
+Wolf            : 0.8247
+Dog             : 0.8768
+
+Epoch: 44
+mAP: 0.8639
+Wolf            : 0.8372
+Dog             : 0.8906
+
+Epoch: 45
+mAP: 0.8568
+Wolf            : 0.8292
+Dog             : 0.8844
+
+Epoch: 46
+mAP: 0.8679
+Wolf            : 0.8436
+Dog             : 0.8922
+
+Epoch: 47
+mAP: 0.8656
+Wolf            : 0.8381
+Dog             : 0.8931
+
+Epoch: 48
+mAP: 0.8727
+Wolf            : 0.8455
+Dog             : 0.8999
+
+Epoch: 49
+mAP: 0.8660
+Wolf            : 0.8375
+Dog             : 0.8945
+
+Epoch: 50
+mAP: 0.8559
+Wolf            : 0.8299
+Dog             : 0.8818
+
+Epoch: 51
+mAP: 0.8780
+Wolf            : 0.8573
+Dog             : 0.8988
+
+Epoch: 52
+mAP: 0.8437
+Wolf            : 0.8364
+Dog             : 0.8511
+
+Epoch: 53
+mAP: 0.8691
+Wolf            : 0.8507
+Dog             : 0.8875
+
+Epoch: 54
+mAP: 0.8673
+Wolf            : 0.8457
+Dog             : 0.8890
+
+Epoch: 55
+mAP: 0.8694
+Wolf            : 0.8403
+Dog             : 0.8984
+
+Epoch: 56
+mAP: 0.8798
+Wolf            : 0.8594
+Dog             : 0.9001
+
+Epoch: 57
+mAP: 0.8825
+Wolf            : 0.8605
+Dog             : 0.9044
+
+Epoch: 58
+mAP: 0.8812
+Wolf            : 0.8601
+Dog             : 0.9024
+
+Epoch: 59
+mAP: 0.8795
+Wolf            : 0.8573
+Dog             : 0.9016
+
+Epoch: 60
+mAP: 0.8796
+Wolf            : 0.8550
+Dog             : 0.9043
+
+Epoch: 61
+mAP: 0.8751
+Wolf            : 0.8462
+Dog             : 0.9039
+
+Epoch: 62
+mAP: 0.8788
+Wolf            : 0.8528
+Dog             : 0.9049
+
+Epoch: 63
+mAP: 0.8771
+Wolf            : 0.8562
+Dog             : 0.8980
+
+Epoch: 64
+mAP: 0.8825
+Wolf            : 0.8601
+Dog             : 0.9049
+
+Epoch: 65
+mAP: 0.8834
+Wolf            : 0.8592
+Dog             : 0.9077
+
+Epoch: 66
+mAP: 0.8810
+Wolf            : 0.8596
+Dog             : 0.9024
+
+Epoch: 67
+mAP: 0.8717
+Wolf            : 0.8429
+Dog             : 0.9006
+
+Epoch: 68
+mAP: 0.8765
+Wolf            : 0.8477
+Dog             : 0.9053
+
+Epoch: 69
+mAP: 0.8871
+Wolf            : 0.8682
+Dog             : 0.9059
+
+Epoch: 70
+mAP: 0.8840
+Wolf            : 0.8596
+Dog             : 0.9084
+
+Epoch: 71
+mAP: 0.8825
+Wolf            : 0.8599
+Dog             : 0.9052
+
+Epoch: 72
+mAP: 0.8851
+Wolf            : 0.8648
+Dog             : 0.9055
+
+Epoch: 73
+mAP: 0.8884
+Wolf            : 0.8706
+Dog             : 0.9062
+
+Epoch: 74
+mAP: 0.8813
+Wolf            : 0.8593
+Dog             : 0.9032
+
+Epoch: 75
+mAP: 0.8861
+Wolf            : 0.8675
+Dog             : 0.9046
+
+Epoch: 76
+mAP: 0.8906
+Wolf            : 0.8745
+Dog             : 0.9066
+
+Epoch: 77
+mAP: 0.8859
+Wolf            : 0.8660
+Dog             : 0.9059
+
+Epoch: 78
+mAP: 0.8837
+Wolf            : 0.8598
+Dog             : 0.9077
+
+Epoch: 79
+mAP: 0.8882
+Wolf            : 0.8709
+Dog             : 0.9056
+
+Epoch: 80
+mAP: 0.8870
+Wolf            : 0.8670
+Dog             : 0.9070
+
+Epoch: 81
+mAP: 0.8865
+Wolf            : 0.8664
+Dog             : 0.9066
+
+Epoch: 82
+mAP: 0.8898
+Wolf            : 0.8712
+Dog             : 0.9084
+
+Epoch: 83
+mAP: 0.8911
+Wolf            : 0.8742
+Dog             : 0.9080
+
+Epoch: 84
+mAP: 0.8939
+Wolf            : 0.8791
+Dog             : 0.9087
+
+Epoch: 85
+mAP: 0.8837
+Wolf            : 0.8586
+Dog             : 0.9087
+
+Epoch: 86
+mAP: 0.8885
+Wolf            : 0.8686
+Dog             : 0.9084
+
+Epoch: 87
+mAP: 0.8874
+Wolf            : 0.8685
+Dog             : 0.9063
+
+Epoch: 88
+mAP: 0.8872
+Wolf            : 0.8681
+Dog             : 0.9063
+
+Epoch: 89
+mAP: 0.8896
+Wolf            : 0.8709
+Dog             : 0.9084
+
+Epoch: 90
+mAP: 0.8887
+Wolf            : 0.8689
+Dog             : 0.9084
+
+Epoch: 91
+mAP: 0.8879
+Wolf            : 0.8688
+Dog             : 0.9070
+
+Epoch: 92
+mAP: 0.8907
+Wolf            : 0.8730
+Dog             : 0.9084
+
+Epoch: 93
+mAP: 0.8909
+Wolf            : 0.8741
+Dog             : 0.9077
+
+Epoch: 94
+mAP: 0.8893
+Wolf            : 0.8714
+Dog             : 0.9073
+
+Epoch: 95
+mAP: 0.8918
+Wolf            : 0.8755
+Dog             : 0.9080
+
+Epoch: 96
+mAP: 0.8824
+Wolf            : 0.8602
+Dog             : 0.9046
+
+Epoch: 97
+mAP: 0.8903
+Wolf            : 0.8744
+Dog             : 0.9063
+
+Epoch: 98
+mAP: 0.8905
+Wolf            : 0.8727
+Dog             : 0.9084
+
+Epoch: 99
+mAP: 0.8877
+Wolf            : 0.8677
+Dog             : 0.9077
+
+Epoch: 100
+mAP: 0.8917
+Wolf            : 0.8746
+Dog             : 0.9087
+
+Epoch: 101
+mAP: 0.8915
+Wolf            : 0.8746
+Dog             : 0.9084
+
+Epoch: 102
+mAP: 0.8940
+Wolf            : 0.8803
+Dog             : 0.9077
+
+Epoch: 103
+mAP: 0.8887
+Wolf            : 0.8708
+Dog             : 0.9066
+
+Epoch: 104
+mAP: 0.8949
+Wolf            : 0.8818
+Dog             : 0.9080
+
+Epoch: 105
+mAP: 0.8926
+Wolf            : 0.8765
+Dog             : 0.9087
+
+Epoch: 106
+mAP: 0.8924
+Wolf            : 0.8770
+Dog             : 0.9077
+
+Epoch: 107
+mAP: 0.8910
+Wolf            : 0.8730
+Dog             : 0.9091
+
+Epoch: 108
+mAP: 0.8953
+Wolf            : 0.8823
+Dog             : 0.9084
+
+Epoch: 109
+mAP: 0.8923
+Wolf            : 0.8766
+Dog             : 0.9080
+
+Epoch: 110
+mAP: 0.8931
+Wolf            : 0.8782
+Dog             : 0.9080
+
+Epoch: 111
+mAP: 0.8941
+Wolf            : 0.8798
+Dog             : 0.9084
+
+Epoch: 112
+mAP: 0.8923
+Wolf            : 0.8759
+Dog             : 0.9087
+
+Epoch: 113
+mAP: 0.8925
+Wolf            : 0.8766
+Dog             : 0.9084
+
+Epoch: 114
+mAP: 0.8933
+Wolf            : 0.8782
+Dog             : 0.9084
+
+Epoch: 115
+mAP: 0.8924
+Wolf            : 0.8769
+Dog             : 0.9080
+
+Epoch: 116
+mAP: 0.8931
+Wolf            : 0.8782
+Dog             : 0.9080
+
+Epoch: 117
+mAP: 0.8919
+Wolf            : 0.8751
+Dog             : 0.9087
+
+Epoch: 118
+mAP: 0.8921
+Wolf            : 0.8763
+Dog             : 0.9080
+
+Epoch: 119
+mAP: 0.8916
+Wolf            : 0.8752
+Dog             : 0.9080
+
+Epoch: 120
+mAP: 0.8926
+Wolf            : 0.8771
+Dog             : 0.9080
+
+Epoch: 121
+mAP: 0.8936
+Wolf            : 0.8792
+Dog             : 0.9080
+
+Epoch: 122
+mAP: 0.8935
+Wolf            : 0.8790
+Dog             : 0.9080
+
+Epoch: 123
+mAP: 0.8940
+Wolf            : 0.8792
+Dog             : 0.9087
+
+Epoch: 124
+mAP: 0.8943
+Wolf            : 0.8798
+Dog             : 0.9087
+
+Epoch: 125
+mAP: 0.8940
+Wolf            : 0.8796
+Dog             : 0.9084
+
+Epoch: 126
+mAP: 0.8945
+Wolf            : 0.8809
+Dog             : 0.9080
+
+Epoch: 127
+mAP: 0.8933
+Wolf            : 0.8786
+Dog             : 0.9080
+
+Epoch: 128
+mAP: 0.8927
+Wolf            : 0.8766
+Dog             : 0.9087
+
+Epoch: 129
+mAP: 0.8933
+Wolf            : 0.8782
+Dog             : 0.9084
+
+Epoch: 130
+mAP: 0.8942
+Wolf            : 0.8804
+Dog             : 0.9080
+
+Epoch: 131
+mAP: 0.8928
+Wolf            : 0.8775
+Dog             : 0.9080
+
+Epoch: 132
+mAP: 0.8928
+Wolf            : 0.8776
+Dog             : 0.9080
+
+Epoch: 133
+mAP: 0.8934
+Wolf            : 0.8784
+Dog             : 0.9084
+
+Epoch: 134
+mAP: 0.8918
+Wolf            : 0.8755
+Dog             : 0.9080
+
+Epoch: 135
+mAP: 0.8915
+Wolf            : 0.8750
+Dog             : 0.9080
+
+Epoch: 136
+mAP: 0.8926
+Wolf            : 0.8773
+Dog             : 0.9080
+
+Epoch: 137
+mAP: 0.8942
+Wolf            : 0.8804
+Dog             : 0.9080
+
+Epoch: 138
+mAP: 0.8944
+Wolf            : 0.8804
+Dog             : 0.9084
+
+Epoch: 139
+mAP: 0.8949
+Wolf            : 0.8818
+Dog             : 0.9080
+
+Epoch: 140
+mAP: 0.8936
+Wolf            : 0.8791
+Dog             : 0.9080
+
+Epoch: 141
+mAP: 0.8947
+Wolf            : 0.8814
+Dog             : 0.9080
+
+Epoch: 142
+mAP: 0.8944
+Wolf            : 0.8805
+Dog             : 0.9084
+
+Epoch: 143
+mAP: 0.8945
+Wolf            : 0.8809
+Dog             : 0.9080
+
+Epoch: 144
+mAP: 0.8938
+Wolf            : 0.8795
+Dog             : 0.9080
+
+Epoch: 145
+mAP: 0.8944
+Wolf            : 0.8804
+Dog             : 0.9084
+
+Epoch: 146
+mAP: 0.8940
+Wolf            : 0.8796
+Dog             : 0.9084
+
+Epoch: 147
+mAP: 0.8952
+Wolf            : 0.8820
+Dog             : 0.9084
+
+Epoch: 148
+mAP: 0.8935
+Wolf            : 0.8787
+Dog             : 0.9084
+
+Epoch: 149
+mAP: 0.8920
+Wolf            : 0.8754
+Dog             : 0.9087
+
+Epoch: 150
+mAP: 0.8930
+Wolf            : 0.8776
+Dog             : 0.9084
+
+Epoch: 151
+mAP: 0.8929
+Wolf            : 0.8773
+Dog             : 0.9084
+
+Epoch: 152
+mAP: 0.8935
+Wolf            : 0.8782
+Dog             : 0.9087
+
+Epoch: 153
+mAP: 0.8941
+Wolf            : 0.8794
+Dog             : 0.9087
+
+Epoch: 154
+mAP: 0.8942
+Wolf            : 0.8797
+Dog             : 0.9087
+
+Epoch: 155
+mAP: 0.8934
+Wolf            : 0.8781
+Dog             : 0.9087
+
+Epoch: 156
+mAP: 0.8943
+Wolf            : 0.8799
+Dog             : 0.9087
+
+Epoch: 157
+mAP: 0.8944
+Wolf            : 0.8800
+Dog             : 0.9087
+
+Epoch: 158
+mAP: 0.8944
+Wolf            : 0.8801
+Dog             : 0.9087
+
+Epoch: 159
+mAP: 0.8946
+Wolf            : 0.8804
+Dog             : 0.9087
+
+Epoch: 160
+mAP: 0.8934
+Wolf            : 0.8781
+Dog             : 0.9087
+
+Epoch: 161
+mAP: 0.8933
+Wolf            : 0.8779
+Dog             : 0.9087
+
+Epoch: 162
+mAP: 0.8933
+Wolf            : 0.8779
+Dog             : 0.9087
+
